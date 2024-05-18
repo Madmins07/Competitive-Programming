@@ -3,14 +3,23 @@
 #define ull             unsigned long long
 #define fastread()      (ios_base:: sync_with_stdio(false),cin.tie(NULL));
 using namespace std;
- 
 int main()
 {
     fastread();
-    int t,a,b;
+    int t,n,k;
     cin>>t;
-    while(t--){
-    cin>>a>>b;
-    cout<<a+b<<endl;}
+    while(t--)
+    {
+        cin>>n;
+        char arr[n];
+        cin>>arr;
+        sort(arr,arr+n);
+        int x=strlen(arr);
+        if(x==5 && arr[0]=='T' && arr[1]=='i' && arr[2]=='m' && arr[3]=='r' && arr[4]=='u'){
+            cout<<"YES"<<endl;
+        }else{
+            cout<<"NO"<<endl;
+        }
+    }
     return 0;
 }
