@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/c++-17-A6BDAD?style=flat-square&labelColor=0B0E0D&logo=cplusplus&logoColor=EEF1ED" alt="c++ 17"/>
-  <img src="https://img.shields.io/github/last-commit/Madmins07/Competitive-Programming?style=flat-square&labelColor=0B0E0D&color=788A7F&label=updated" alt="last-commit"/>
-  <img src="https://img.shields.io/github/license/Madmins07/Competitive-Programming?style=flat-square&labelColor=0B0E0D&color=5A6A60" alt="license"/>
-  <a href="https://codeforces.com/profile/Madmins07"><img src="https://img.shields.io/badge/live-codeforces.com/profile/Madmins07-EEF1ED?style=flat-square&labelColor=0B0E0D" alt="live codeforces.com/profile/Madmins07"/></a>
+  <img src="https://img.shields.io/badge/c++-17-FF4FD8?style=flat-square&labelColor=07080D&logo=cplusplus&logoColor=EEF1ED" alt="c++ 17"/>
+  <img src="https://img.shields.io/github/last-commit/Madmins07/Competitive-Programming?style=flat-square&labelColor=07080D&color=6F7693&label=updated" alt="last-commit"/>
+  <img src="https://img.shields.io/github/license/Madmins07/Competitive-Programming?style=flat-square&labelColor=07080D&color=1C2032" alt="license"/>
+  <a href="https://codeforces.com/profile/Madmins07"><img src="https://img.shields.io/badge/live-codeforces.com/profile/Madmins07-F3F5FF?style=flat-square&labelColor=07080D" alt="live codeforces.com/profile/Madmins07"/></a>
 </div>
 
 ## about
